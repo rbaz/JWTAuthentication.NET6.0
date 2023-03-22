@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTAuthentication.NET6.0", "JWTAuthentication.NET6.0\JWTAuthentication.NET6.0.csproj", "{5F182079-0CDB-40A1-97F8-EBB936FC48C4}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "jwtauth.ui", "JWTAuth.UI\jwtauth.ui.esproj", "{763458AE-8EE8-4C13-99AD-031D4B568539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F182079-0CDB-40A1-97F8-EBB936FC48C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F182079-0CDB-40A1-97F8-EBB936FC48C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F182079-0CDB-40A1-97F8-EBB936FC48C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F182079-0CDB-40A1-97F8-EBB936FC48C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763458AE-8EE8-4C13-99AD-031D4B568539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763458AE-8EE8-4C13-99AD-031D4B568539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763458AE-8EE8-4C13-99AD-031D4B568539}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{763458AE-8EE8-4C13-99AD-031D4B568539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763458AE-8EE8-4C13-99AD-031D4B568539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763458AE-8EE8-4C13-99AD-031D4B568539}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7FAAE2F-6005-4874-AA8B-1353B9C1D73D}
+	EndGlobalSection
+EndGlobal
