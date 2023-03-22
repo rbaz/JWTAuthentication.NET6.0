@@ -1,2 +1,2 @@
 # JWTAuthentication.NET6.0
-Auhetntificatio Identity Token bearer
+JSON Web Token Introduction With Identity
